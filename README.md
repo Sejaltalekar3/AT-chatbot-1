@@ -51,9 +51,22 @@ To build a working prototype of a **local discovery chatbot** that:
 
 ---
 
-## 🚀 How to Run Locally
 
-1. **Install Python dependencies:**
 
-```bash
+**How to Run Locally
+Install Python dependencies:
+
+bash
+Copy
+Edit
 pip install flask ddgs requests llama-cpp-python
+Download the Mistral-7B GGUF model:
+
+You will need a quantized .gguf version of Mistral-7B to run this locally using llama.cpp.
+🔗 Download it from TheBloke/Mistral-7B-v0.1-GGUF on Hugging Face
+For example, you can use the file:
+Mistral-7B-Instruct-v0.1.Q4_K_M.gguf
+
+Place the downloaded .gguf file in the project directory **
+```bash
+
