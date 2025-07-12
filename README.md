@@ -23,12 +23,6 @@ To build a working prototype of a **local discovery chatbot** that:
 
 ---
 
-## 💡 Use Case Examples
-
-- "Find vegetarian restaurants within 2 km of MG Road, Bengaluru"
-- "What are the top-rated dentists near me?"
-- "Show me trending events in Jaipur this weekend"
-- "Is there any late-night food delivery around Indiranagar?"
 
 ---
 
